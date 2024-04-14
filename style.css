@@ -51,4 +51,12 @@ body {
     background-color: #007bff; 
     color: white; 
   }
+
+  #details-section {
+    padding: 20px;
+  }
+  
+  .row > div {
+    margin: 10px 0;
+  }
   
